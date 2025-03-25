@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justborgman
 - 👀 I’m interested in Crypto
 - 🌱 I’m currently learning Everything
-- 💞️ I’m looking for slow living
+- 💞️ I’m looking for Slow living
   
 <!---
 justborgman/justborgman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
